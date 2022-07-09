@@ -2,7 +2,7 @@ var agora = new Date()
 var diaSem = agora.getDay()
 
 console.log(diaSem)
-diaSem = 7
+// diaSem = 7
 
 switch(diaSem) {
     case 0:
